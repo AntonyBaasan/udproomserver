@@ -1,0 +1,24 @@
+{
+  "name": "udproomserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "prompt": "^0.2.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonyBaasan/udproomserver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonyBaasan/udproomserver/issues"
+  },
+  "homepage": "https://github.com/AntonyBaasan/udproomserver"
+}
